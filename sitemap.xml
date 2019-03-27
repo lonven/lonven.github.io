@@ -3,18 +3,23 @@
 
 
     <sitemap>
-        <loc>http://yoursite-url/post-sitemap.xml</loc>
-        <lastmod>2019-03-27T04:00:52.036Z</lastmod>
+        <loc>https://lonven.github.io/post-sitemap.xml</loc>
+        <lastmod>2019-03-27T08:17:09.911Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite-url/page-sitemap.xml</loc>
-        <lastmod>2019-03-27T03:49:59.743Z</lastmod>
+        <loc>https://lonven.github.io/page-sitemap.xml</loc>
+        <lastmod>2019-03-27T07:41:29.826Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite-url/tag-sitemap.xml</loc>
-        <lastmod>2019-03-27T04:00:52.036Z</lastmod>
+        <loc>https://lonven.github.io/category-sitemap.xml</loc>
+        <lastmod>2019-03-27T08:17:09.911Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://lonven.github.io/tag-sitemap.xml</loc>
+        <lastmod>2019-03-27T08:17:09.911Z</lastmod>
     </sitemap>
 
 </sitemapindex>

@@ -3,15 +3,22 @@
 
 
     <url>
-        <loc>http://yoursite-url/tags/Hexo/</loc>
-        <lastmod>2019-03-27T04:00:52.036Z</lastmod>
+        <loc>https://lonven.github.io/tags/Hexo/</loc>
+        <lastmod>2019-03-27T08:17:09.911Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://yoursite-url/tags/Blog/</loc>
-        <lastmod>2019-03-27T04:00:52.036Z</lastmod>
+        <loc>https://lonven.github.io/tags/Blog/</loc>
+        <lastmod>2019-03-27T08:17:09.911Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://lonven.github.io/tags/learn/</loc>
+        <lastmod>2019-03-27T08:17:09.911Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
